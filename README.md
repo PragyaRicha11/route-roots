@@ -6,6 +6,8 @@
 
 ---
 
+📲 Download Demo App: [Link to your Google Drive APK] ☁️ Live Backend API: https://route-roots-api.onrender.com/docs
+
 ## 🌟 Key Features
 * **🔒 Domain-Locked Auth:** Access is strictly restricted to verified organization emails (`@vit.edu`, `@infosys.com`) using Supabase Auth.
 * **📍 Intelligent Route Matching:** Uses **PostGIS** spatial queries to match passengers not just to a driver's *start* point, but to any point along their *entire route path* (within a 5km buffer).
