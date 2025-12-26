@@ -1,0 +1,17 @@
+# Python Backend Ignores
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Flutter App Ignores
+route_roots_app/build/
+route_roots_app/.dart_tool/
+route_roots_app/.flutter-plugins
+route_roots_app/.flutter-plugins-dependencies
+route_roots_app/.idea/
+route_roots_app/android/.gradle
+route_roots_app/android/local.properties
+
+# General
+.DS_Store
+.env
